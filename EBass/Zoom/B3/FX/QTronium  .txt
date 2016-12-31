@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: QTronium  
+SysEx Message:
+F0 52 00 4F 28 64 23 16 00 01 58 02 01 00 00 00 00 00 00 31 1E 50 40 01 48 00 60 00 00 08 00 00 00 33 20 40 03 00 50 00 10 28 33 01 0A 15 32 64 40 00 00 0C 00 00 0C 51 54 72 6F 6E 69 00 75 6D 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

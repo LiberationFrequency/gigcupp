@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: Zairon    
+SysEx Message:
+F0 52 00 4F 28 14 31 20 40 01 28 02 4E 02 00 00 00 00 00 0F 0E 00 40 07 10 00 4A 00 00 00 00 00 00 6F 26 00 02 40 60 01 05 43 00 00 00 01 00 64 00 00 00 00 00 00 0C 5A 61 69 72 6F 6E 00 20 20 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: NonSense  
+SysEx Message:
+F0 52 00 4F 28 14 2F 18 00 01 68 01 37 00 00 00 00 00 00 77 3A 40 40 07 70 03 32 00 00 0A 00 00 00 2F 1E 00 03 00 48 00 0D 27 3C 06 04 01 33 64 00 00 00 00 00 00 0C 4E 6F 6E 53 65 6E 00 73 65 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

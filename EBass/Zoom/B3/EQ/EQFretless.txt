@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: EQFretless
+SysEx Message:
+F0 52 00 4F 28 00 29 18 00 03 60 00 08 00 0C 0C 0C 6B 00 2B 2E 10 40 00 38 00 1C 02 1A 08 7A 00 00 50 38 40 02 00 60 04 29 00 00 00 00 01 00 64 00 00 00 00 00 00 0C 45 51 46 72 65 74 00 6C 65 73 73 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

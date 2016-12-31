@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: Pfui      
+SysEx Message:
+F0 52 00 4F 28 00 03 3C 40 01 20 00 01 00 00 00 62 78 00 35 02 40 40 01 60 00 64 64 00 0A 00 00 00 09 24 00 07 00 28 00 64 05 00 00 00 01 00 64 00 00 00 00 00 00 0C 50 66 75 69 20 20 00 20 20 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: Motown    
+SysEx Message:
+F0 52 00 4F 28 40 25 08 40 01 20 02 0C 02 03 00 00 00 00 19 46 00 40 03 48 00 30 00 00 0A 00 00 00 31 18 00 04 00 20 00 0D 1E 67 03 00 01 42 64 00 00 00 00 00 00 0C 4D 6F 74 6F 77 6E 00 20 20 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

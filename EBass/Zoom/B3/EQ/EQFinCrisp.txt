@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: EQFinCrisp
+SysEx Message:
+F0 52 00 4F 28 04 2B 3E 40 00 40 00 1D 02 00 0D 64 00 00 06 0C 40 00 0E 68 02 00 00 00 0A 00 00 00 06 0C 00 0E 00 68 02 00 00 00 00 00 01 00 64 00 00 00 00 00 00 0C 45 51 46 69 6E 43 00 72 69 73 70 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

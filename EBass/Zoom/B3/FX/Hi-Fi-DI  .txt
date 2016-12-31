@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: Hi-Fi-DI  
+SysEx Message:
+F0 52 00 4F 28 60 23 00 40 00 20 03 01 02 00 00 00 00 00 21 1C 00 40 03 68 00 52 31 78 08 00 00 00 2F 1C 40 04 00 48 00 0D 28 3C 08 0C 01 32 64 00 00 00 00 00 00 0C 48 69 2D 46 69 2D 00 44 49 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

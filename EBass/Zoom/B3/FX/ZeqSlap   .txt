@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: ZeqSlap   
+SysEx Message:
+F0 52 00 4F 28 04 2B 14 40 00 20 00 0F 00 01 14 7F 00 00 19 04 10 40 00 30 00 04 01 68 08 00 00 00 35 1A 40 03 40 08 00 0D 44 60 00 06 01 32 64 00 00 00 00 00 00 0C 5A 65 71 53 6C 61 00 70 20 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

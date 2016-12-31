@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: Muffig    
+SysEx Message:
+F0 52 00 4F 28 40 1D 26 00 0F 20 03 00 02 4D 00 00 00 00 19 18 40 00 02 58 00 3A 00 00 0A 00 00 00 0B 4A 40 0E 00 18 00 00 4E 00 00 00 01 00 64 00 00 00 00 00 00 0C 4D 75 66 66 69 67 00 20 20 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

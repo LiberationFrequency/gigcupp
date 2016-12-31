@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: EQKontra  
+SysEx Message:
+F0 52 00 4F 28 00 2B 10 00 00 78 00 14 02 00 17 64 00 00 06 0A 40 00 0E 68 02 00 00 00 0A 00 00 00 06 0C 00 0E 00 68 02 00 00 00 00 00 01 00 64 00 00 00 00 00 00 0C 45 51 4B 6F 6E 74 00 72 61 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

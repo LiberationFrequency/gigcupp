@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: RanCompE  
+SysEx Message:
+F0 52 00 4F 28 00 53 10 00 01 30 02 09 00 76 00 00 00 00 1B 40 00 40 06 40 00 02 01 32 0A 64 00 00 07 0C 00 09 00 38 02 00 00 00 00 00 01 00 64 00 00 00 00 00 00 0C 52 61 6E 43 6F 6D 00 70 45 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

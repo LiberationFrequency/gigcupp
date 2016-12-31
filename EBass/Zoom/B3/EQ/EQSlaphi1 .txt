@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: EQSlaphi1 
+SysEx Message:
+F0 52 00 4F 28 04 2B 24 40 00 08 00 1F 02 01 17 64 00 00 06 0C 40 00 0E 68 02 00 00 00 0A 00 00 00 06 0C 00 0E 00 68 02 00 00 00 00 00 01 00 64 00 00 00 00 00 00 0C 45 51 53 6C 61 70 00 68 69 31 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

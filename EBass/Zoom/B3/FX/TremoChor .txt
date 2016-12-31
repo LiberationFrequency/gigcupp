@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: TremoChor 
+SysEx Message:
+F0 52 00 4F 28 30 39 0A 00 09 28 03 03 00 00 00 00 00 00 3D 70 50 00 04 18 01 06 67 01 0A 00 00 00 31 1C 00 03 00 58 00 10 28 72 03 00 31 32 64 42 00 40 06 00 00 0C 54 72 65 6D 6F 43 00 68 6F 72 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

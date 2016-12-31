@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: Gatell    
+SysEx Message:
+F0 52 00 4F 28 00 27 20 00 00 10 03 00 02 00 00 00 00 00 01 78 00 00 00 48 01 64 00 00 0A 00 00 00 3B 28 00 04 00 08 00 03 52 22 03 02 01 32 64 00 00 00 00 00 00 0C 47 61 74 65 6C 6C 00 20 20 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:

@@ -1,0 +1,6 @@
+Fr 30. Dez 16:26:19 CET 2016
+Patchname: EQSplap1  
+SysEx Message:
+F0 52 00 4F 28 14 2B 0E 00 00 40 00 1A 02 01 16 64 00 00 06 0C 40 00 0E 68 02 00 00 00 0A 00 00 00 06 0C 00 0E 00 68 02 00 00 00 00 00 01 00 64 00 00 00 00 00 00 0C 45 51 53 70 6C 61 00 70 31 20 20 00 F7
+Path: /home/live-user/ZFXPatches/BazzArch
+Description:
